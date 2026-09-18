@@ -1,0 +1,7 @@
+correlation of the two monthly decline profiles: r = -0.774 (p = 0.003)
+nebel: decline vs log(baseline rate)  r = 0.797 (p = 0.002)
+gew:   decline vs log(baseline rate)  r = 0.836 (p = 0.001)
+
+VERDICT: no fingerprint. The two indicators decline together across the calendar, and in both
+the decline is largest in the months where the phenomenon was rarest -- which is what a change
+in reporting threshold looks like, not what an aerosol mechanism looks like. ABANDONED.
