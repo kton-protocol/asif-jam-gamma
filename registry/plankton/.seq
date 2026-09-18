@@ -1,7 +1,8 @@
 {
   "epoch": "33fcb1d5e4653125840dc606bb017fa1",
-  "next": 2,
+  "next": 3,
   "seq": {
-    "sha256:0f29590aeed7b82f324a742f667a29cf70a42fc9d4e2ae77b687ed9525c31ec6": 1
+    "sha256:0f29590aeed7b82f324a742f667a29cf70a42fc9d4e2ae77b687ed9525c31ec6": 1,
+    "sha256:539032a7158dce48dcb30f3834e31a9c571947dc247dc69ea26c6c698bb85a49": 2
   }
 }
