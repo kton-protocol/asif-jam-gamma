@@ -1,0 +1,5 @@
+panel: stations 30, 80, 93, 105, 131, 145 (reported nebel in every year 1990-2024)
+denominator 1990: 2190 station-days   2024: 1905 station-days   (-13.0%)
+fog days per station-year: 31.0 (1990-1999) -> 13.7 (2015-2024)  = -55.8%
+fog-day rate:              8.49% -> 3.89%  = -54.2%
+linear trend in rate: -0.1704 pp/yr, p = 7.53e-11
