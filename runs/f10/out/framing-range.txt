@@ -1,0 +1,14 @@
+balanced panel, summer (Jun-Aug), 1990-99 vs 2015-24            -87.3%
+balanced panel, peak 1995-99 vs single worst year 2023          -79.9%
+station 131 alone, 1990-94 vs 2020-24                           -72.6%
+station 30 alone, 1990-94 vs 2020-24                            -71.6%
+balanced panel, peak 1995-99 vs 2020-24                         -56.3%
+balanced panel, 1990-99 vs 2015-24 (our headline, f3)           -53.8%
+balanced panel, core fog season (Oct-Jan), 1990-99 vs 2015-24   -42.3%
+all 10 stations, 1990-99 vs 2015-24                             -36.1%
+strictest panel (80,105 only), 1990-99 vs 2015-24               -35.0%
+all stations, 1990-94 vs 2020-24 (the starter, f1)              -30.6%
+
+range across ten defensible-sounding specifications: -30.6% to -87.3%
+ABANDONED as a figure to show. Kept as the honest measure of how much of any single number
+here is a choice rather than a finding.
