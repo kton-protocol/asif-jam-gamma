@@ -1,0 +1,7 @@
+linear: -0.1704 pp/yr, p = 7.5e-11, fitted rate reaches zero in 2043 (bootstrap 95% interval 2037-2053)
+Poisson: rate ratio 0.9727/yr = x0.759 per decade, p = 6.87e-77, half-life 25.1 years
+Poisson fit falls below 1 fog day per station-year in 2119
+
+NOTE, in the record on purpose: a linear fit to a bounded non-negative quantity has no
+business being extended past the data, and the Poisson fit never reaches zero at all.
+The two models disagree by three decades about the same 35 observations.

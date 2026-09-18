@@ -1,0 +1,3 @@
+"model","slope_or_logRR","p_value","key_quantity"
+"linear (pct ~ year)",-0.1704,7.5e-11,"reaches zero in 2043 (bootstrap 95% interval 2037-2053)"
+"Poisson (fog ~ year, offset log station-days)",-0.02764,6.87e-77,"half-life 25.1 yr; x0.759 per decade; <1 fog day/station-year by 2119"
