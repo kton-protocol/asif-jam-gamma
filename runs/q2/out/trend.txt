@@ -1,0 +1,3 @@
+per-year trend: -3.87 events/yr (p = 0.219)
+mean 1970-1997: 666.8   mean 1998-2025: 491.7
+cumulative rises in 55 of 55 years
