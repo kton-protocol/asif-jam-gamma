@@ -1,0 +1,6 @@
+rows: 75708 station-days on which BOTH nebel and gew were reported, stations 30, 80, 93, 105, 131, 145
+
+nebel  8.49% -> 3.89%  (-54.2%);  station+month FE: -65.6% over 34 yr, OR/decade 0.730, p=5.9e-86
+gew    9.45% -> 6.08%  (-35.7%);  station+month FE: -50.4% over 34 yr, OR/decade 0.814, p=1.1e-45
+
+fog declines 1.52x as fast as thunderstorms on the same station-days (log-odds ratio)
