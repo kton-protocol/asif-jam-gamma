@@ -1,0 +1,12 @@
+spec                                    early   late   change  zero-year
+headline panel (f3)                      8.49   3.89   -54.2%       2043
+panel minus 30                           8.53   4.15   -51.3%       2047
+panel minus 80                           8.46   3.66   -56.8%       2041
+panel minus 93                           8.64   3.84   -55.6%       2042
+panel minus 105                          9.16   3.88   -57.7%       2040
+panel minus 131                          6.86   3.83   -44.1%       2056
+panel minus 145                          9.29   3.96   -57.4%       2040
+strict panel (>=350 days every year)     6.89   4.48   -35.0%       2073
+all 10 stations                          8.20   5.19   -36.7%       2074
+
+endpoint sensitivity, 10-yr windows: min -54.3%  max -36.6%  (36 combinations)
